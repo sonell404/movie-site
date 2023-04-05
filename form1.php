@@ -151,6 +151,12 @@
 	        	<input type="text" name="phone" id="phone" required>
 	        	<span class="error">* <?php echo $phoneErr;?></span>
 	      	</div>
+            <!-- Anti-spam field -->
+            <div style="display:none">
+	        	<label for="">Phone</label>
+	        	<input type="text" name="phone" id="phone" required>
+	        	<span class="error">* <?php echo $phoneErr;?></span>
+	      	</div>
 	      	<!-- Submit button -->
 	      	<input class="submit-btn" type="submit" name="submit" value="Submit">
 	    </div>
