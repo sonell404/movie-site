@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movies>
+    <movie id="1">
+        <title>Suspiria</title>
+        <director>Dario Argento</director>
+        <year>1977</year>
+        <genre>Horror</genre>
+        <rating>18</rating>
+        <description>
+            An American newcomer to a prestigious German ballet academy comes to realize that the school is a front for something sinister amid a series of grisly murders.
+        </description>
+        <length>1h39m</length>
+        <stars>
+            <star>Jessica Harper</star>
+            <star>Stefania Casini</star>
+            <star>Flavio Bucci</star>
+        </stars>
+        <video>movie_suspiria.mp4</video>
+        <image>movie_suspiria.jpg</image>
+        <cinema>Odeon</cinema>
+        <timedate>2023-03-23 19:00</timedate>
+        <price>10</price>
+    </movie>
+    <movie id="2">
+        <title>Kwaidan</title>
+        <director>Masaki Kobayashi</director>
+        <year>1964</year>
+        <genre>Horror</genre>
+        <rating>15</rating>
+        <description>
+            A collection of four Japanese folk tales with supernatural themes.
+        </description>
+        <length>3h3m</length>
+        <stars>
+            <star>Rentarô Mikuni</star>
+            <star>Michiyo Aratama</star>
+            <star>Misako Watanabe</star>
+        </stars>
+        <video>movie_kwaidan.mp4</video>
+        <image>movie_kwaidan.jpg</image>
+        <cinema>Odeon</cinema>
+        <timedate>2023-04-02 20:00</timedate>
+        <price>10</price>
+    </movie>
+    <movie id="3">
+        <title>Forbidden Planet</title>
+        <director>Fred M. Wilcox</director>
+        <year>1956</year>
+        <genre>Sci-Fi</genre>
+        <rating>U</rating>
+        <description>
+          A starship crew in the 23rd century goes to investigate the silence of a distant planet's colony, only to find just two survivors, a powerful robot, and the deadly secret of a lost civilization.
+        </description>
+        <length>1h38m</length>
+        <stars>
+            <star>Walter Pidgeon</star>
+            <star>Anne Francis</star>
+            <star>Leslie Nielsen</star>
+        </stars>
+        <video>movie_forbidden_planet.mp4</video>
+        <image>movie_forbidden_planet.jpg</image>
+        <cinema>Omniplex</cinema>
+        <timedate>2023-03-26 17:30</timedate>
+        <price>10</price>
+    </movie>
+    <movie id="4">
+        <title>The Terminator</title>
+        <director>James Cameron</director>
+        <year>1985</year>
+        <genre>Sci-Fi</genre>
+        <rating>18</rating>
+        <description>
+            A human soldier is sent from 2029 to 1984 to stop an almost indestructible cyborg killing machine, sent from the same year, which has been programmed to execute a young woman whose unborn son is the key to humanity's future salvation.
+        </description>
+        <length>1h47m</length>
+        <stars>
+            <star>Arnold Schwarzenegger</star>
+            <star>Linda Hamilton</star>
+            <star>Michael Biehn</star>
+        </stars>
+        <video>movie_the_terminator.mp4</video>
+        <image>movie_the_terminator.jpg</image>
+        <cinema>Savoy</cinema>
+        <timedate>2023-03-25 19:00</timedate>
+        <price>10</price>
+    </movie>
+    <movie id="5">
+        <title>Terminator 2: Judgement Day</title>
+        <director>James Cameron</director>
+        <year>1991</year>
+        <genre>Sci-Fi</genre>
+        <rating>18</rating>
+        <description>
+          A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her 10-year old son John from an even more advanced and powerful cyborg.
+        </description>
+        <length>2h17m</length>
+        <stars>
+            <star>Arnold Schwarzenegger</star>
+            <star>Linda Hamilton</star>
+            <star>Edward Furlong</star>
+        </stars>
+        <video>movie_terminator_2.mp4</video>
+        <image>movie_terminator_2.jpg</image>
+        <cinema>Cineworld</cinema>
+        <timedate>2023-04-02 19:45</timedate>
+        <price>10</price>
+    </movie>
+</movies>
